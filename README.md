@@ -1,2 +1,2 @@
-# image_processing
+# Image processing
 You can learn the basics of image processing from this repository.
